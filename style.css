@@ -136,4 +136,15 @@ section img{
     }
     textarea{
         width: 350px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    table{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    td{
+        font-size: 15px;
+    }
 }
