@@ -134,4 +134,6 @@ section img{
         height: 80px;
         width: 350px;
     }
+    textarea{
+        width: 350px;
 }
